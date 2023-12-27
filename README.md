@@ -1,1 +1,1 @@
-# zyra_smartphone
+# lomba-web-design
